@@ -1,0 +1,5 @@
+mediapipe
+pyautogui 
+comtypes
+pycaw
+screen_brightness_control
